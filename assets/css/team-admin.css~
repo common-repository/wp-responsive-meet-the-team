@@ -1,0 +1,13 @@
+.rows{ float: left; width:100% }
+.rows img{ width: 100%;  }
+.col-6{ width: 45%; float: left;border: #000 solid 1px; padding: 1%; margin: 0% 1% 1% 0; }
+#home .form-table tr:nth-child(3){display: none;}
+#setting_heading_font_size {border:0; color:#f6931f; font-weight:bold;background: none; }
+#setting_Subheading_font_size {border:0; color:#f6931f; font-weight:bold;background: none; }
+#setting_paragraph_font_size {border:0; color:#f6931f; font-weight:bold;background: none; }
+.ui-slider-horizontal{width: 25%;}
+#setting_custom_css{width: 100%;    height: 300px; }
+#menu2 h2 {background: #0085BA; color: #fff; padding: 5px; }
+.ui-widget-content{border: none !important;}
+.at-field{text-align: left;}
+p.wprm_note{color: red;}

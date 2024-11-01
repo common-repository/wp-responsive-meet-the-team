@@ -1,0 +1,5 @@
+#tabs {width: 100%; float: left;line-height: 0px; border-bottom: #6B7275 solid 1px; } 
+#tabs .nav li{ background: #6B7275 ;float: left;padding:15px;margin: 2px 5px 0 0; border-radius: 8px 8px 0 0; }
+#tabs .nav li a{ font-size: 14px;text-decoration: none; color: #fff;}
+#tabs .nav li.active{background: #0085BA;}
+.tab_content {background: #fff; float: left; width: 98%; padding: 10px; }
